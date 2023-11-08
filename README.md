@@ -10,7 +10,7 @@ This course is designed to introduce students to the fundamentals of computer gr
 
 The course consists of four laboratory works, each covering different aspects of computer graphics. Below is an overview of each laboratory work:
 
-1. **Laboratory Work 1**: Introduction to 2D Graphics
+1. **Laboratory Work 1**: [Introduction to 2D Graphics](src/laboratory_worк_one)
    - This lab introduces students to 2D graphics programming.
 
 2. **Laboratory Work 2**: 3D Transformations and Viewing
