@@ -1,5 +1,5 @@
-from src.laboratory_worк_one.src.maze_solver import MazeSolver
-from src.laboratory_worк_one.tests.test_cases import mazes
+from src.laboratory_worк_1.src.maze_solver import MazeSolver
+from src.laboratory_worк_1.tests.test_cases import mazes
 
 
 def test_maze_solver():
