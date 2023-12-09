@@ -1,7 +1,7 @@
 from itertools import product
 from typing import List, Tuple
 
-from src.laboratory_worк_1.src.disjoint_set_union import DisjointSetUnion
+from src.laboratory_work_1.src.disjoint_set_union import DisjointSetUnion
 
 
 class MazeSolver:

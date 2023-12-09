@@ -2,7 +2,7 @@ import re
 
 import numpy as np
 
-from src.laboratory_worк_1.src.maze_solver import MazeSolver
+from src.laboratory_work_1.src.maze_solver import MazeSolver
 
 
 def get_maze():

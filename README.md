@@ -10,13 +10,13 @@ This course is designed to introduce students to the fundamentals of computer gr
 
 The course consists of four laboratory works, each covering different aspects of computer graphics. Below is an overview of each laboratory work:
 
-1. **Laboratory Work 1**: [Introduction to 2D Graphics](src/laboratory_worк_1)
+1. **Laboratory Work 1**: [Introduction to 2D Graphics](src/laboratory_work_1)
    - This lab introduces students to 2D graphics programming.
 
-2. **Laboratory Work 2**: [3D Transformations and Viewing](src/laboratory_worк_2/Unity-Throw-Ball)
+2. **Laboratory Work 2**: [3D Transformations and Viewing](src/laboratory_work_2/Unity-Throw-Ball)
    - In this lab, students will work with 3D transformations and viewing, including translation, rotation, and perspective projection.
 
-3. **Laboratory Work 3**: [Computer Vision](src/laboratory_worк_3)
+3. **Laboratory Work 3**: [Computer Vision](src/laboratory_work_3)
    - In this lab, students will be focused on enabling machines to interpret and make decisions based on visual data, emulating human visual perception for tasks such as image recognition, object detection, and scene understanding.
 
 ## Getting Started
@@ -37,7 +37,7 @@ cd computer_graphics
 
 Here are some additional resources to help you succeed in this course:
 
-- [Course Abstract](undefined): Contains detailed information about the course.
+- [Course Abstract](docs/Computer_graphics.pdf): Contains detailed information about the course.
 
 ## Contributing
 
