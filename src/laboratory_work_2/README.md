@@ -21,8 +21,11 @@
    ![open project](media/Screenshot_1.png)
 2. Explore the Unity editor to understand the project structure and settings.
    ![unity interface](media/Screenshot_2.png)
-   ![run model](media/Screenshot_4.png)
    `Main scripts:`
    - [Camera](Unity-Throw-Ball/Assets/CameraFollow.cs)
    - [Ball](Unity-Throw-Ball/Assets/throwManager.cs)
 3. Run the project and interact with the simulation.
+   ![run model](media/Screenshot_4.png)
+## Example
+https://github.com/Alexander-Zadorozhnyy/computer_graphics/assets/66938442/b3510672-3c04-44ae-a74a-9e3e482bafc4
+
