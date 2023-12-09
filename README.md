@@ -13,7 +13,7 @@ The course consists of four laboratory works, each covering different aspects of
 1. **Laboratory Work 1**: [Introduction to 2D Graphics](src/laboratory_work_1)
    - This lab introduces students to 2D graphics programming.
 
-2. **Laboratory Work 2**: [3D Transformations and Viewing](src/laboratory_work_2/Unity-Throw-Ball)
+2. **Laboratory Work 2**: [3D Transformations and Viewing](src/laboratory_work_2)
    - In this lab, students will work with 3D transformations and viewing, including translation, rotation, and perspective projection.
 
 3. **Laboratory Work 3**: [Computer Vision](src/laboratory_work_3)
