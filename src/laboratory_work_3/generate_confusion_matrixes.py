@@ -41,11 +41,14 @@ def generate_confusion_matrix(model, images, labels):
 
     # Generate confusion matrix
     from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
+
     cm = confusion_matrix(labels, predictions, labels=np.unique(labels))
 
     disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=np.unique(labels))
     disp.plot()
-    plt.savefig(os.path.join("media", "matrixes", "_".join(list(np.unique(labels))) + "_cm.png"))
+    plt.savefig(
+        os.path.join("media", "matrixes", "_".join(list(np.unique(labels))) + "_cm.png")
+    )
     return cm
 
 
@@ -62,4 +65,3 @@ for _class in classes:
     images, labels = load_data(another)
     # Generate and save confusion matrices
     generate_confusion_matrix(model, images_panda + images, labels_panda + labels)
-

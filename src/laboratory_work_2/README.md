@@ -28,4 +28,3 @@
    ![run model](media/Screenshot_4.png)
 ## Example
 https://github.com/Alexander-Zadorozhnyy/computer_graphics/assets/66938442/b3510672-3c04-44ae-a74a-9e3e482bafc4
-
